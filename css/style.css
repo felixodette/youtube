@@ -16,12 +16,6 @@ body {
   cursor: pointer;
 }
 
-.no-side-bar {
-  .side-bar {
-    display: none;
-  }
-}
-
 .video-section {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -286,4 +280,18 @@ body {
   width: 36px;
   height: 36px;
   background-color: #aaa;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.play-video {
+  flex-basis: 69%;
+}
+
+.right-sidebar {
+  flex-basis: 30%;
 }
