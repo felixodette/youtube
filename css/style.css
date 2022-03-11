@@ -303,3 +303,20 @@ body {
   flex-basis: 30%;
   padding-left: 3%;
 }
+
+.vid-info-data {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.vid-info-data img {
+  scale: 80%;
+  padding-left: 2px;
+}
+
+.left-vid-info {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
