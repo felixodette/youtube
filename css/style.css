@@ -288,10 +288,18 @@ body {
   flex-wrap: wrap;
 }
 
+.play-container {
+  padding-left: 15%;
+  display: flex;
+}
+
 .play-video {
   flex-basis: 69%;
 }
 
 .right-sidebar {
+  display: flex;
+  flex-direction: column;
   flex-basis: 30%;
+  padding-left: 3%;
 }
