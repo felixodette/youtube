@@ -10,3 +10,5 @@ hint-report/
 stylelintrc.json
 .idea/
 .idea
+package-lock.json
+package.json
