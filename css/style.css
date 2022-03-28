@@ -79,12 +79,13 @@ body {
   text-decoration: none;
   color: black;
 }
+
 .channel-icon {
   margin-right: 0.75rem;
   border-radius: 50%;
   width: 36px;
   height: 36px;
-  background-color: #AAA;
+  background-color: #aaa;
 }
 
 .video-channel-name {
@@ -177,7 +178,6 @@ body {
   background: white;
   position: fixed;
   width: 100%;
-  position: -webkit-sticky;
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
