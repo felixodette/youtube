@@ -4,3 +4,11 @@
 node_modules
 dist
 .cache
+node_modules/
+hint-report
+hint-report/
+stylelintrc.json
+.idea/
+.idea
+package-lock.json
+package.json
