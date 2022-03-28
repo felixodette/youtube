@@ -8,3 +8,5 @@ node_modules/
 hint-report
 hint-report/
 stylelintrc.json
+.idea/
+.idea
