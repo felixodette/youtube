@@ -306,3 +306,7 @@ body {
   align-items: center;
   gap: 3px;
 }
+
+iframe {
+  border: 0;
+}
